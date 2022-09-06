@@ -1,0 +1,21 @@
+<web-app>
+        <servlet>
+                <servlet-name>Index</servlet-name>
+                <servlet-class>sample.Index</servlet-class>
+        </servlet>
+
+        <servlet-mapping>
+                <servlet-name>Index</servlet-name>
+                <url-pattern>/index</url-pattern>
+        </servlet-mapping>
+
+        <servlet>
+                <servlet-name>Docs</servlet-name>
+                <servlet-class>sample.Docs</servlet-class>
+        </servlet>
+
+        <servlet-mapping>
+                <servlet-name>Docs</servlet-name>
+                <url-pattern>/docs</url-pattern>
+        </servlet-mapping>
+</web-app>
