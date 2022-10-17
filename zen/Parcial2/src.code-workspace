@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "src"
+		},
+		{
+			"path": "web"
+		}
+	],
+	"settings": {
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"e:\\Coding\\Java\\USAL\\ProgAvanzada\\Parcial 2\\ProgramacionAvanzada\\zen\\Parcial2\\web\\WEB-INF\\lib\\javax.servlet.jar",
+			"WEB-INF/lib/Roizman-Mateo-DAO.jar",
+			"e:\\Coding\\Java\\USAL\\ProgAvanzada\\Parcial 2\\ProgramacionAvanzada\\zen\\Parcial2\\web\\WEB-INF\\lib\\Roizman-Mateo-DAO.jar"
+		]
+	}
+}
